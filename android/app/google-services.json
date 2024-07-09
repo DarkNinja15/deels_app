@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "273061157699",
+    "project_id": "deels-d4242",
+    "storage_bucket": "deels-d4242.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273061157699:android:d3002752b2912a80c26df6",
+        "android_client_info": {
+          "package_name": "com.example.deels_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_zuDeUMDt_FK4TVmxqsjyyi1k_t9qxow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
